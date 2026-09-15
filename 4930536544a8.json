@@ -296,23 +296,6 @@
       "bundle_sha256": "705a06455d83548782b38d2ab822bee11182713fa1cbfc65bae7162781499351"
     },
     {
-      "mod_version_id": "778c39ac-776f-49df-ae7a-bad331dc7466",
-      "name": "Relic Reward Choice",
-      "version": "1.7.12",
-      "source": null,
-      "hash": "2a975eb1523cfccf6957bb6a06ffe673460572e656de0cd8e39bed084293e265",
-      "files": [
-        "RelicRewardChoice\\RelicRewardChoice.dll",
-        "RelicRewardChoice\\RelicRewardChoice.json",
-        "RelicRewardChoice\\RitsuModConfigAdapter.dll"
-      ],
-      "folder_name": "RelicRewardChoice",
-      "mod_id": "RelicRewardChoice",
-      "enabled": true,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_130ec7f4.zip",
-      "bundle_sha256": "130ec7f402aa523c0910295a75944f0b62203c01bd8fe92316a91913c7f27fe1"
-    },
-    {
       "mod_version_id": "b329abef-e6de-4b7b-bbfe-9eb46d56ed25",
       "name": "Auto Translate (CN -> EN)",
       "version": "1.0.0",
@@ -326,11 +309,29 @@
       "folder_name": "AutoTranslate",
       "mod_id": "AutoTranslate",
       "enabled": true,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_0949a48c.zip",
-      "bundle_sha256": "0949a48c69d0a281000c698fc674177a1fd26db8d3fd64d3f354ee4b57e40e2c"
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_4c5933e9.zip",
+      "bundle_sha256": "4c5933e90a976d11db54bcea389270e713714b37d30586d62793706ee91fadae"
+    },
+    {
+      "mod_version_id": "d223f5f7-3451-4c62-bf21-c433350675a8",
+      "name": "Relic Reward Choice",
+      "version": "1.7.12",
+      "source": null,
+      "hash": "2a975eb1523cfccf6957bb6a06ffe673460572e656de0cd8e39bed084293e265",
+      "files": [
+        "RelicRewardChoice\\RelicRewardChoice.dll",
+        "RelicRewardChoice\\RelicRewardChoice.json",
+        "RelicRewardChoice\\RitsuModConfigAdapter.dll",
+        "RelicRewardChoice\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "RelicRewardChoice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_8aaa1446.zip",
+      "bundle_sha256": "8aaa14464eb5acd37a405e43ee624b2fee0af8995bda3ee1d10da21ef998b447"
     }
   ],
   "created_at": "2026-09-15T15:59:45.310091700Z",
-  "updated_at": "2026-09-15T23:35:08.475905Z",
+  "updated_at": "2026-09-15T23:37:26.122196500Z",
   "public": false
 }
