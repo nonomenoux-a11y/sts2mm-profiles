@@ -32,7 +32,7 @@
       ],
       "folder_name": "AncientRetexture",
       "mod_id": "ancientretexture",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/AncientRetexture_v1.0.0_0d5ee4fa.zip",
       "bundle_sha256": "0d5ee4fa77a1451c040e1ec12c33f15b7bd22e94c05df79949ade335f728a180"
     },
@@ -120,21 +120,6 @@
       "bundle_sha256": "93a21680295c4e3eb77dfb3aa989e6f7a6489b7e1c2bffa717aa39b760631259"
     },
     {
-      "mod_version_id": "5ba69d4a-6a49-4cbf-a0f3-4f19cf092197",
-      "name": "KoishiAncient",
-      "version": "v1.2.1",
-      "source": null,
-      "hash": "bbdd4c1e0106c68a81670b0f5511abaad8525ca14acc948c17afc0e07058cf59",
-      "files": [
-        "KoishiAncient\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "KoishiAncient",
-      "mod_id": "KoishiAncient",
-      "enabled": false,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/KoishiAncient_v1.2.1_4246becd.zip",
-      "bundle_sha256": "4246becdfc476dc8f8685d67b808365e30d26879562ea14250a5130e3f1f94d8"
-    },
-    {
       "mod_version_id": "6be5eb10-b810-4286-8d93-60a99a7ff222",
       "name": "MGR",
       "version": "0.8.0",
@@ -188,21 +173,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Noctis_v1.0.0_b8f9af5c.zip",
       "bundle_sha256": "b8f9af5c47f202c645f3f616755aae80bd6a0023baa78d59894710fe101f5069"
-    },
-    {
-      "mod_version_id": "778c39ac-776f-49df-ae7a-bad331dc7466",
-      "name": "Relic Reward Choice",
-      "version": "1.7.12",
-      "source": null,
-      "hash": "2a975eb1523cfccf6957bb6a06ffe673460572e656de0cd8e39bed084293e265",
-      "files": [
-        "RelicRewardChoice\\__folder_managed_by_vortex"
-      ],
-      "folder_name": "RelicRewardChoice",
-      "mod_id": "RelicRewardChoice",
-      "enabled": false,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_fe2c0d93.zip",
-      "bundle_sha256": "fe2c0d9315ab45efacf2ab03ff39e37945fe8c1e6d47ae9e09040e2c9800eaac"
     },
     {
       "mod_version_id": "1ac184c9-828e-435b-8f5c-c48bb4c4a563",
@@ -282,9 +252,40 @@
       "enabled": true,
       "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/_v1.2.16_77f01325.zip",
       "bundle_sha256": "77f01325204fc70a181deb20298267efeabdebd222029c50b227899cbe874dfc"
+    },
+    {
+      "mod_version_id": "5ba69d4a-6a49-4cbf-a0f3-4f19cf092197",
+      "name": "KoishiAncient",
+      "version": "v1.2.1",
+      "source": null,
+      "hash": "bbdd4c1e0106c68a81670b0f5511abaad8525ca14acc948c17afc0e07058cf59",
+      "files": [
+        "KoishiAncient\\KoishiAncient.json"
+      ],
+      "folder_name": "KoishiAncient",
+      "mod_id": "KoishiAncient",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/KoishiAncient_v1.2.1_165f972d.zip",
+      "bundle_sha256": "165f972d466275fae3d4326e6e4b9f75b6db26119b145a54d67b3a3c809c03b0"
+    },
+    {
+      "mod_version_id": "d223f5f7-3451-4c62-bf21-c433350675a8",
+      "name": "Relic Reward Choice",
+      "version": "1.7.12",
+      "source": null,
+      "hash": "2a975eb1523cfccf6957bb6a06ffe673460572e656de0cd8e39bed084293e265",
+      "files": [
+        "RelicRewardChoice\\RelicRewardChoice.json",
+        "RelicRewardChoice\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "RelicRewardChoice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_45584d90.zip",
+      "bundle_sha256": "45584d90ee405d691297102cf097bd57e32a58aced4245f274dd1d00e6e3f979"
     }
   ],
   "created_at": "2026-09-15T15:59:45.310091700Z",
-  "updated_at": "2026-09-15T15:59:46.289257500Z",
+  "updated_at": "2026-09-15T16:04:09.613732800Z",
   "public": false
 }
