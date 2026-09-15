@@ -1,0 +1,245 @@
+{
+  "id": "fc0fb3fe-b567-4ae9-b582-cc1e7abe8454",
+  "name": "New characters",
+  "game_version": "0.111.0",
+  "created_by": "nonomenoux-a11y",
+  "mods": [
+    {
+      "mod_version_id": "212652b3-8064-45fa-8c0c-e35fde4c0732",
+      "name": "BaseLib",
+      "version": "v3.4.7",
+      "source": null,
+      "hash": "55863ca6adc30a61a7544874e157a519ffe148ccf2b18025947609c4bff813ce",
+      "files": [
+        "BaseLib\\BaseLib.json"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_11681d4e.zip",
+      "bundle_sha256": "11681d4e4adc955f455e449233d85507786de15d26f3e721729adcb915c8f78f"
+    },
+    {
+      "mod_version_id": "a1cdfd58-2917-4661-91ed-13c066f7c4d0",
+      "name": "酒狐",
+      "version": "1.2.16",
+      "source": null,
+      "hash": "569a22dc85475cfb5fa77a48fff66fb6630ee7bbf389b0c85cf31fcc77c98d97",
+      "files": [
+        "STS2_WineFox\\__folder_managed_by_vortex"
+      ],
+      "folder_name": "STS2_WineFox",
+      "mod_id": "STS2_WineFox",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/_v1.2.16_77f01325.zip",
+      "bundle_sha256": "77f01325204fc70a181deb20298267efeabdebd222029c50b227899cbe874dfc"
+    },
+    {
+      "mod_version_id": "8b1a5799-edbe-466f-b6e1-aac45478a22f",
+      "name": "Acheron",
+      "version": "v0.4.11",
+      "source": null,
+      "hash": "fca85a3c2f05d329981ae89ff9eb6e2c645ecc5c0aedfb2837be0b544066a9b5",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.11_4bf687e4.zip",
+      "bundle_sha256": "4bf687e4ec14ba28ef54ea8652f7a17ed3201c90b8b4a7cd823991b3021c9bb0"
+    },
+    {
+      "mod_version_id": "0f0c4a33-048a-44fc-9d73-467e25c0f855",
+      "name": "CznTipheraCharacter",
+      "version": "v1.0.4-beta",
+      "source": null,
+      "hash": "d30c958ba7a78ecab68825c86dee88771371ce139c027f4efb0d9611bf4b2c53",
+      "files": [
+        "CznTipheraCharacter\\CznTipheraCharacter.dll",
+        "CznTipheraCharacter\\CznTipheraCharacter.json",
+        "CznTipheraCharacter\\CznTipheraCharacter.pck"
+      ],
+      "folder_name": "CznTipheraCharacter",
+      "mod_id": "CznTipheraCharacter",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/CznTipheraCharacter_v1.0.4-beta_1f183747.zip",
+      "bundle_sha256": "1f183747580b97819bf1b5c8e49da2ea3ea825a6da1c8e7e300359ea4368e664"
+    },
+    {
+      "mod_version_id": "e5fc3428-dee5-4cc4-b000-e4c5adb4639f",
+      "name": "Mutsumi",
+      "version": "0.2.7",
+      "source": null,
+      "hash": "f95e235e0618e0100518db2344033f0442061a0b4b040cac28070c08747506df",
+      "files": [
+        "MzmChar\\MzmChar.dll",
+        "MzmChar\\MzmChar.json",
+        "MzmChar\\MzmChar.pck",
+        "MzmChar\\MzmChar.pdb"
+      ],
+      "folder_name": "MzmChar",
+      "mod_id": "MzmChar",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Mutsumi_v0.2.7_0dfd266c.zip",
+      "bundle_sha256": "0dfd266c0b0c20c8492cb01b40e5a4256bdbf64dce38da2483f2bc616881b888"
+    },
+    {
+      "mod_version_id": "7f58d209-256b-4feb-9db8-cdfd559038ae",
+      "name": "The Artist",
+      "version": "v0.1.0",
+      "source": null,
+      "hash": "17f9b1038c4ceae9a30d1be3c5ed9eef41807835cecbccfa260a9982933d9b9c",
+      "files": [
+        "TheArtist\\TheArtist.dll",
+        "TheArtist\\TheArtist.json",
+        "TheArtist\\TheArtist.pck"
+      ],
+      "folder_name": "TheArtist",
+      "mod_id": "TheArtist",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/The_Artist_v0.1.0_8abab2b0.zip",
+      "bundle_sha256": "8abab2b0e9bcef9b5a5466fc871590c32a12aae3f2631e81549948b3dd6a31c9"
+    },
+    {
+      "mod_version_id": "2c289395-5871-43db-a289-796fc2362d6b",
+      "name": "The Sorceress",
+      "version": "v0.5.6",
+      "source": null,
+      "hash": "a9e5cd5897767e8d845359a2448856b8a065655b19476e5b54b5caa7f3c59a3b",
+      "files": [
+        "TheSorceressMod\\TheSorceressMod.dll",
+        "TheSorceressMod\\TheSorceressMod.json",
+        "TheSorceressMod\\TheSorceressMod.pck"
+      ],
+      "folder_name": "TheSorceressMod",
+      "mod_id": "TheSorceressMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/The_Sorceress_v0.5.6_1a65d337.zip",
+      "bundle_sha256": "1a65d33715128ab9920239d34fda6ae1c7d72a03cb35fa006e3aff5bb960096a"
+    },
+    {
+      "mod_version_id": "8046a2d2-69fc-4141-b26b-e970bd161b08",
+      "name": "Faust",
+      "version": "0.1.8",
+      "source": null,
+      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
+      "files": [
+        "Faust\\Faust.dll",
+        "Faust\\Faust.json",
+        "Faust\\Faust.pck"
+      ],
+      "folder_name": "Faust",
+      "mod_id": "Faust",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Faust_v0.1.8_93a21680.zip",
+      "bundle_sha256": "93a21680295c4e3eb77dfb3aa989e6f7a6489b7e1c2bffa717aa39b760631259"
+    },
+    {
+      "mod_version_id": "07a73d65-dfb4-4689-b17c-7f3ba6227984",
+      "name": "Evanescia",
+      "version": "v0.2.6",
+      "source": null,
+      "hash": "50d8cb7c2e1dbb059296e46cae26013e4e5ad8a3cfec12c5bd880d01e8e72a6a",
+      "files": [
+        "Evanescia\\Evanescia.dll",
+        "Evanescia\\Evanescia.json",
+        "Evanescia\\Evanescia.pck"
+      ],
+      "folder_name": "Evanescia",
+      "mod_id": "Evanescia",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.6_5e0a48a1.zip",
+      "bundle_sha256": "5e0a48a164c6dc013d999bfd6159306e624dfd958e019944709feec8f9623b88"
+    },
+    {
+      "mod_version_id": "b329abef-e6de-4b7b-bbfe-9eb46d56ed25",
+      "name": "Auto Translate (CN -> EN)",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "5abeae7a8a1f047a139fdd45b60659a068d1159b3c236e505cf62e86e99275fc",
+      "files": [
+        "AutoTranslate\\AutoTranslate.dll",
+        "AutoTranslate\\AutoTranslate.json",
+        "AutoTranslate\\translation_cache.json"
+      ],
+      "folder_name": "AutoTranslate",
+      "mod_id": "AutoTranslate",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_9aac5849.zip",
+      "bundle_sha256": "9aac58498795a63b0e5712f362fe14d54b95a92f8b3f8b77a0611250ca88c115"
+    },
+    {
+      "mod_version_id": "b14255c5-7fd3-4588-9ba5-81181ae9ae2c",
+      "name": "Squall",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "db8925854d4b3a33124016853a4b245177fc4179197aabc0b5b38c877f04f14e",
+      "files": [
+        "Squall\\Squall.json"
+      ],
+      "folder_name": "Squall",
+      "mod_id": "Squall",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Squall_v1.0.7_3de6355e.zip",
+      "bundle_sha256": "3de6355ee54a42ba196d0101307cfa3f3d68643c123e8ffcf573981595f8e9f9"
+    },
+    {
+      "mod_version_id": "f09b3d87-27d6-4567-ba11-d6e4f36c6f5c",
+      "name": "Noctis",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "abddeaf27296104817386ec7a3a7ba81ff73ac806c30a9713bd1f60fd4aab19a",
+      "files": [
+        "Noctis\\Noctis.dll",
+        "Noctis\\Noctis.json",
+        "Noctis\\Noctis.pck"
+      ],
+      "folder_name": "Noctis",
+      "mod_id": "Noctis",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Noctis_v1.0.0_b8f9af5c.zip",
+      "bundle_sha256": "b8f9af5c47f202c645f3f616755aae80bd6a0023baa78d59894710fe101f5069"
+    },
+    {
+      "mod_version_id": "1ac184c9-828e-435b-8f5c-c48bb4c4a563",
+      "name": "RitsuLib",
+      "version": "0.5.20",
+      "source": null,
+      "hash": "a2c909280b47e08e24c09e45a0ac6190c25f9d7863a61e566087147cf1a82aca",
+      "files": [
+        "STS2-RitsuLib\\mod_manifest.json"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.20_b8453087.zip",
+      "bundle_sha256": "b8453087e443c1139dc0559c4a6f044d327afe5e817a0b929391c3967b8b4ecb"
+    },
+    {
+      "mod_version_id": "6be5eb10-b810-4286-8d93-60a99a7ff222",
+      "name": "MGR",
+      "version": "0.8.0",
+      "source": null,
+      "hash": "800ffc2461c30c163949768fae3bc08be4f6c604f8a55950375b1ff34079e065",
+      "files": [
+        "mgrmod\\lib\\0.107.1\\MGRMod.dll",
+        "mgrmod\\lib\\0.111.0\\MGRMod.dll",
+        "mgrmod\\mgrmod-variants.manifest",
+        "mgrmod\\MGRMod.dll",
+        "mgrmod\\MGRMod.json",
+        "mgrmod\\MGRMod.pck"
+      ],
+      "folder_name": "mgrmod",
+      "mod_id": "MGRMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/MGR_v0.8.0_0f5c726b.zip",
+      "bundle_sha256": "0f5c726b97737d4e75dcfab9f1d0f0ea8a20e23b10d88c7fcba293ab235bad86"
+    }
+  ],
+  "created_at": "2026-09-15T15:18:01.395891700Z",
+  "updated_at": "2026-09-15T15:52:53.442029900Z",
+  "public": false
+}
