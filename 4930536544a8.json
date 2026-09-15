@@ -50,8 +50,8 @@
       "folder_name": "AutoTranslate",
       "mod_id": "AutoTranslate",
       "enabled": true,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_9aac5849.zip",
-      "bundle_sha256": "9aac58498795a63b0e5712f362fe14d54b95a92f8b3f8b77a0611250ca88c115"
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_58dc473e.zip",
+      "bundle_sha256": "58dc473e5308ef69ddeb59ac62362b90a2a924fe4eb343051150f2724d343d35"
     },
     {
       "mod_version_id": "212652b3-8064-45fa-8c0c-e35fde4c0732",
@@ -175,21 +175,6 @@
       "bundle_sha256": "b8f9af5c47f202c645f3f616755aae80bd6a0023baa78d59894710fe101f5069"
     },
     {
-      "mod_version_id": "1ac184c9-828e-435b-8f5c-c48bb4c4a563",
-      "name": "RitsuLib",
-      "version": "0.5.20",
-      "source": null,
-      "hash": "a2c909280b47e08e24c09e45a0ac6190c25f9d7863a61e566087147cf1a82aca",
-      "files": [
-        "STS2-RitsuLib\\mod_manifest.json"
-      ],
-      "folder_name": "STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.5.20_b8453087.zip",
-      "bundle_sha256": "b8453087e443c1139dc0559c4a6f044d327afe5e817a0b929391c3967b8b4ecb"
-    },
-    {
       "mod_version_id": "b14255c5-7fd3-4588-9ba5-81181ae9ae2c",
       "name": "Squall",
       "version": "v1.0.7",
@@ -283,9 +268,68 @@
       "enabled": true,
       "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_45584d90.zip",
       "bundle_sha256": "45584d90ee405d691297102cf097bd57e32a58aced4245f274dd1d00e6e3f979"
+    },
+    {
+      "mod_version_id": "102dcb64-1639-4fd8-b695-b7259a34cf00",
+      "name": "RitsuLib",
+      "version": "0.6.2",
+      "source": null,
+      "hash": "e5d2574fcbbb45cf3b8778376e03a8f44fe3f41fa8929b14ee74b921df422f97",
+      "files": [
+        "STS2-RitsuLib\\assets.zip",
+        "STS2-RitsuLib\\compat\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.109.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.109.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.110.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.110.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\RitsuLib.References.props",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.xml",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.xml",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.xml",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.2_705a0645.zip",
+      "bundle_sha256": "705a06455d83548782b38d2ab822bee11182713fa1cbfc65bae7162781499351"
     }
   ],
   "created_at": "2026-09-15T15:59:45.310091700Z",
-  "updated_at": "2026-09-15T16:04:09.613732800Z",
+  "updated_at": "2026-09-15T23:14:05.697701700Z",
   "public": false
 }
