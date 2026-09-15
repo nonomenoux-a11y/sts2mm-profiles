@@ -37,23 +37,6 @@
       "bundle_sha256": "0d5ee4fa77a1451c040e1ec12c33f15b7bd22e94c05df79949ade335f728a180"
     },
     {
-      "mod_version_id": "b329abef-e6de-4b7b-bbfe-9eb46d56ed25",
-      "name": "Auto Translate (CN -> EN)",
-      "version": "1.0.0",
-      "source": null,
-      "hash": "5abeae7a8a1f047a139fdd45b60659a068d1159b3c236e505cf62e86e99275fc",
-      "files": [
-        "AutoTranslate\\AutoTranslate.dll",
-        "AutoTranslate\\AutoTranslate.json",
-        "AutoTranslate\\translation_cache.json"
-      ],
-      "folder_name": "AutoTranslate",
-      "mod_id": "AutoTranslate",
-      "enabled": true,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_58dc473e.zip",
-      "bundle_sha256": "58dc473e5308ef69ddeb59ac62362b90a2a924fe4eb343051150f2724d343d35"
-    },
-    {
       "mod_version_id": "212652b3-8064-45fa-8c0c-e35fde4c0732",
       "name": "BaseLib",
       "version": "v3.4.7",
@@ -254,22 +237,6 @@
       "bundle_sha256": "165f972d466275fae3d4326e6e4b9f75b6db26119b145a54d67b3a3c809c03b0"
     },
     {
-      "mod_version_id": "d223f5f7-3451-4c62-bf21-c433350675a8",
-      "name": "Relic Reward Choice",
-      "version": "1.7.12",
-      "source": null,
-      "hash": "2a975eb1523cfccf6957bb6a06ffe673460572e656de0cd8e39bed084293e265",
-      "files": [
-        "RelicRewardChoice\\RelicRewardChoice.json",
-        "RelicRewardChoice\\RitsuModConfigAdapter.dll"
-      ],
-      "folder_name": "RelicRewardChoice",
-      "mod_id": "RelicRewardChoice",
-      "enabled": true,
-      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_45584d90.zip",
-      "bundle_sha256": "45584d90ee405d691297102cf097bd57e32a58aced4245f274dd1d00e6e3f979"
-    },
-    {
       "mod_version_id": "102dcb64-1639-4fd8-b695-b7259a34cf00",
       "name": "RitsuLib",
       "version": "0.6.2",
@@ -327,9 +294,43 @@
       "enabled": true,
       "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.2_705a0645.zip",
       "bundle_sha256": "705a06455d83548782b38d2ab822bee11182713fa1cbfc65bae7162781499351"
+    },
+    {
+      "mod_version_id": "778c39ac-776f-49df-ae7a-bad331dc7466",
+      "name": "Relic Reward Choice",
+      "version": "1.7.12",
+      "source": null,
+      "hash": "2a975eb1523cfccf6957bb6a06ffe673460572e656de0cd8e39bed084293e265",
+      "files": [
+        "RelicRewardChoice\\RelicRewardChoice.dll",
+        "RelicRewardChoice\\RelicRewardChoice.json",
+        "RelicRewardChoice\\RitsuModConfigAdapter.dll"
+      ],
+      "folder_name": "RelicRewardChoice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.12_130ec7f4.zip",
+      "bundle_sha256": "130ec7f402aa523c0910295a75944f0b62203c01bd8fe92316a91913c7f27fe1"
+    },
+    {
+      "mod_version_id": "b329abef-e6de-4b7b-bbfe-9eb46d56ed25",
+      "name": "Auto Translate (CN -> EN)",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "5abeae7a8a1f047a139fdd45b60659a068d1159b3c236e505cf62e86e99275fc",
+      "files": [
+        "AutoTranslate\\AutoTranslate.dll",
+        "AutoTranslate\\AutoTranslate.json",
+        "AutoTranslate\\translation_cache.json"
+      ],
+      "folder_name": "AutoTranslate",
+      "mod_id": "AutoTranslate",
+      "enabled": true,
+      "bundle_url": "https://github.com/nonomenoux-a11y/sts2mm-profiles/releases/download/bundles/Auto_Translate_.CN_-__EN._v1.0.0_0949a48c.zip",
+      "bundle_sha256": "0949a48c69d0a281000c698fc674177a1fd26db8d3fd64d3f354ee4b57e40e2c"
     }
   ],
   "created_at": "2026-09-15T15:59:45.310091700Z",
-  "updated_at": "2026-09-15T23:14:05.697701700Z",
+  "updated_at": "2026-09-15T23:35:08.475905Z",
   "public": false
 }
